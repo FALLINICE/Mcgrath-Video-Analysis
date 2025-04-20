@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KinoveaVideoAnalysis>
+  <FormatVersion>2.0</FormatVersion>
+  <Producer>Kinovea.2023.1.2</Producer>
+  <OriginalFilename>mcgrath</OriginalFilename>
+  <FullPath>C:\Users\kanis\Downloads\mcgrath.mp4</FullPath>
+  <ImageSize>600;480</ImageSize>
+  <Aspect>Auto</Aspect>
+  <Rotation>Rotate0</Rotation>
+  <Mirror>false</Mirror>
+  <Demosaicing>None</Demosaicing>
+  <Deinterlacing>false</Deinterlacing>
+  <AverageTimeStampsPerFrame>512</AverageTimeStampsPerFrame>
+  <CaptureFramerate>25</CaptureFramerate>
+  <UserFramerate>25</UserFramerate>
+  <FirstTimeStamp>512</FirstTimeStamp>
+  <SelectionStart>512</SelectionStart>
+  <SelectionEnd>14955582</SelectionEnd>
+  <TimeOrigin>512</TimeOrigin>
+  <Calibration>
+    <CalibrationLine>
+      <Length>100</Length>
+      <Segment>
+        <A>300;240</A>
+        <B>400;240</B>
+      </Segment>
+      <Origin>0;100</Origin>
+      <Axis>LineHorizontal</Axis>
+    </CalibrationLine>
+    <CalibrationDrawingId>00000000-0000-0000-0000-000000000000</CalibrationDrawingId>
+    <Unit Abbreviation="px">Pixels</Unit>
+  </Calibration>
+  <Keyframes>
+    <Keyframe id="94f7f20f-1c31-47b6-b77e-4a7aad9b7c0f">
+      <Timestamp>325632</Timestamp>
+      <Name>25.40</Name>
+      <Color>70;130;180</Color>
+    </Keyframe>
+    <Keyframe id="7c252312-8f90-438f-9248-f76e9ae6f1aa">
+      <Timestamp>333312</Timestamp>
+      <Name>26.00</Name>
+      <Color>70;130;180</Color>
+      <Drawings>
+        <Line id="2bf9d794-1273-4d90-8d02-1e1215e213d1" name="Line 1">
+          <Start>268.5315;316.6433</Start>
+          <End>339.021;147.6923</End>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>283.7762;182.1678</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="color">
+              <Value>255;255;127;0</Value>
+            </Color>
+            <LineSize Key="line size">
+              <Value>8</Value>
+            </LineSize>
+            <LineShape Key="line shape">
+              <Value>Solid</Value>
+            </LineShape>
+            <Arrows Key="arrows">
+              <Value>EndArrow</Value>
+            </Arrows>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Line>
+        <Label id="40413f0d-44ca-4ac9-acbc-8d63fc3cadab" name="Text 4">
+          <Text>He could have left the ball as the ball 
+was already going outside the leg stump</Text>
+          <Position>30.20979;21.25874</Position>
+          <ArrowVisible>false</ArrowVisible>
+          <ArrowEnd>-19.79021;-28.74126</ArrowEnd>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;0;0;0</Value>
+            </Color>
+            <FontSize Key="font size">
+              <Value>12</Value>
+            </FontSize>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Label>
+      </Drawings>
+    </Keyframe>
+    <Keyframe id="53a24098-f66a-44bb-8f77-1383bcb4462f">
+      <Timestamp>943104</Timestamp>
+      <Name>1:13.64</Name>
+      <Color>70;130;180</Color>
+    </Keyframe>
+    <Keyframe id="ee1c6b70-1ce1-4b38-bbd2-d5ff8e9c6b47">
+      <Timestamp>1465344</Timestamp>
+      <Name>1:54.44</Name>
+      <Color>70;130;180</Color>
+      <Drawings>
+        <Line id="5fc092f1-6e6a-46bb-b506-4dd311284660" name="Line 2">
+          <Start>202.5175;175.6643</Start>
+          <End>309.9301;174.5455</End>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>236.2238;125.1049</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="color">
+              <Value>255;255;127;0</Value>
+            </Color>
+            <LineSize Key="line size">
+              <Value>8</Value>
+            </LineSize>
+            <LineShape Key="line shape">
+              <Value>Solid</Value>
+            </LineShape>
+            <Arrows Key="arrows">
+              <Value>EndArrow</Value>
+            </Arrows>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Line>
+        <Label id="d1391a34-0b3e-4937-817d-7ad5637741d1" name="Text 1">
+          <Text>Bad footwork</Text>
+          <Position>62.65734;46.99301</Position>
+          <ArrowVisible>false</ArrowVisible>
+          <ArrowEnd>12.65734;-3.006992</ArrowEnd>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;0;0;0</Value>
+            </Color>
+            <FontSize Key="font size">
+              <Value>12</Value>
+            </FontSize>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Label>
+      </Drawings>
+    </Keyframe>
+    <Keyframe id="be1fe720-a713-4ef9-a00a-cc6d451f77d3">
+      <Timestamp>1485312</Timestamp>
+      <Name>1:56.00</Name>
+      <Color>70;130;180</Color>
+      <Drawings>
+        <Line id="96bfe86b-0be9-4b02-8da4-a76ef84de1d7" name="Line 3">
+          <Start>365.8741;354.6853</Start>
+          <End>298.7412;262.9371</End>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>312.3077;258.8112</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="color">
+              <Value>255;255;127;0</Value>
+            </Color>
+            <LineSize Key="line size">
+              <Value>8</Value>
+            </LineSize>
+            <LineShape Key="line shape">
+              <Value>Solid</Value>
+            </LineShape>
+            <Arrows Key="arrows">
+              <Value>EndArrow</Value>
+            </Arrows>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Line>
+        <Label id="9e16f6fd-8f52-45c5-8aa6-9f1a22b44089" name="Text 2">
+          <Text>Bat angle and position
+were not correct.
+
+Also he played a bit late.</Text>
+          <Position>388.2517;379.3007</Position>
+          <ArrowVisible>false</ArrowVisible>
+          <ArrowEnd>338.2517;329.3007</ArrowEnd>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;0;0;0</Value>
+            </Color>
+            <FontSize Key="font size">
+              <Value>12</Value>
+            </FontSize>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Label>
+      </Drawings>
+    </Keyframe>
+    <Keyframe id="3f11cc88-83f2-4032-8ee7-a8f723688fb8">
+      <Timestamp>2081280</Timestamp>
+      <Name>2:42.56</Name>
+      <Color>70;130;180</Color>
+      <Drawings>
+        <Line id="297c6731-5c10-41ea-b8c9-27de04aa0373" name="Line 4">
+          <Start>415.1049;134.2657</Start>
+          <End>296.5035;229.3706</End>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>335.8042;131.8182</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="color">
+              <Value>255;255;127;0</Value>
+            </Color>
+            <LineSize Key="line size">
+              <Value>8</Value>
+            </LineSize>
+            <LineShape Key="line shape">
+              <Value>Solid</Value>
+            </LineShape>
+            <Arrows Key="arrows">
+              <Value>EndArrow</Value>
+            </Arrows>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Line>
+        <Line id="9c43edca-46c1-441d-8908-3444a4a941a1" name="Line 5">
+          <Start>391.6084;108.5315</Start>
+          <End>271.8881;117.4825</End>
+          <ExtraData>None</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>311.7483;63.00699</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="color">
+              <Value>255;255;127;0</Value>
+            </Color>
+            <LineSize Key="line size">
+              <Value>8</Value>
+            </LineSize>
+            <LineShape Key="line shape">
+              <Value>Solid</Value>
+            </LineShape>
+            <Arrows Key="arrows">
+              <Value>EndArrow</Value>
+            </Arrows>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Line>
+        <Label id="ce50ee94-0bff-463f-94ea-b7f144efb464" name="Text 3">
+          <Text>Footwork was not up 
+to the mark also the head 
+position was not ideal</Text>
+          <Position>351.3287;21.25874</Position>
+          <ArrowVisible>false</ArrowVisible>
+          <ArrowEnd>301.3287;-28.74126</ArrowEnd>
+          <DrawingStyle>
+            <Color Key="back color">
+              <Value>255;0;0;0</Value>
+            </Color>
+            <FontSize Key="font size">
+              <Value>12</Value>
+            </FontSize>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Label>
+      </Drawings>
+    </Keyframe>
+  </Keyframes>
+  <CoordinateSystem id="ff760146-8324-4d16-a2fc-3fe4ed48ee88" name="Coordinate system 1">
+    <Position>300;240</Position>
+    <Visible>false</Visible>
+    <ShowGrid>true</ShowGrid>
+    <ShowGraduations>true</ShowGraduations>
+    <DrawingStyle>
+      <Color Key="line color">
+        <Value>255;255;0;0</Value>
+      </Color>
+    </DrawingStyle>
+  </CoordinateSystem>
+  <TestGrid id="9e275759-ceea-4108-962a-d065189f44a5" name="Camera test grid 1">
+    <Visible>false</Visible>
+    <ShowHorizontalAxis>true</ShowHorizontalAxis>
+    <ShowVerticalAxis>true</ShowVerticalAxis>
+    <ShowFraming>true</ShowFraming>
+    <ShowThirds>false</ShowThirds>
+    <DrawingStyle>
+      <Color Key="color">
+        <Value>255;255;0;0</Value>
+      </Color>
+    </DrawingStyle>
+  </TestGrid>
+  <Trackability />
+  <VideoFilters>
+    <Kinogram>
+      <TileCount>18</TileCount>
+      <Rows>3</Rows>
+      <CropSize>400;600</CropSize>
+      <CropPositions>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+      </CropPositions>
+      <AutoInterpolate>true</AutoInterpolate>
+      <LeftToRight>true</LeftToRight>
+      <BorderColor>44;44;44</BorderColor>
+      <BorderVisible>true</BorderVisible>
+      <MeasureLabelType>None</MeasureLabelType>
+    </Kinogram>
+  </VideoFilters>
+</KinoveaVideoAnalysis>
